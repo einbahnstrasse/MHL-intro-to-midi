@@ -13,6 +13,12 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,400;0,600;1,100;1,300;1,400;1,600&display=swap');
 
+@font-face {
+  font-family: 'Fibel Vienna';
+  /* src: url('https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/dist/theme/fonts/Fibel Vienna.ttf') format('truetype') */
+  src: url('fonts/Fibel Vienna.ttf') format('truetype')
+}
+
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
